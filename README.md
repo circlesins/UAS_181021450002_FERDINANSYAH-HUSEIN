@@ -1,4 +1,4 @@
-`1. Aplikasi Native adalah aplikasi mobile yang dikembangkan secara khusus untuk satu sistem operasi. 
+1. Aplikasi Native adalah aplikasi mobile yang dikembangkan secara khusus untuk satu sistem operasi. 
 Contohnya adalah pengembangan android hanya untuk android saja, atau Objective-C/Swift hanya 
 untuk ios saja. Yang mana keduanya memiliki IDE (Integrated Development Environment) masingmasing. Untuk membuat aplikasi android, IDE yang digunakan adalah Android Studio. 
 
